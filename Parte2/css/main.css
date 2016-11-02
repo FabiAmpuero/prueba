@@ -1,0 +1,11 @@
+body {
+    width: 320px;
+}
+div {
+    margin: 20px;
+    border: 2px solid #ff6600;
+}
+p, h1 {
+    font-size: 20px;
+    margin: 20px 12px;
+}
